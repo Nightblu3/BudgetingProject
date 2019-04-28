@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Lab 11</string>
+    <string name="app_name">BudgetingProject</string>
+    <string name="edit_num">Enter Your Yearly Salary</string>
+    <string name="edit_button">Confirm</string>
+    <string name="addItemPrice">Enter Item Price</string>
+    <string name="calculateTime">Calculate Time</string>
 </resources>
